@@ -1,4 +1,4 @@
-# bodyguard-privacy-policy
+# clic-calme-policy
 Conditions générales d'utilisation 
 PRÉAMBULE 
 Le service «Aidevig Bodyguard» (ci-après le « Service ») permet à tout Utilisateur d’un Terminal sous système d’exploitation Android d’émettre en cas de danger une alerte automatisée vers une personne tierce et/ou organisme de secours. Le Service gère 3 niveaux d'urgence et lance des appels téléphoniques, mails et envoie des SMS si nécessaire.
