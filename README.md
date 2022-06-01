@@ -1,5 +1,7 @@
-#bodyguard-privacy-policy
-Conditions générales d'utilisation PRÉAMBULE Le service «Aidevig Bodyguard» (ci-après le « Service ») permet à tout Utilisateur d’un Terminal sous système d’exploitation Android d’émettre en cas de danger une alerte automatisée vers une personne tierce et/ou organisme de secours. Le Service gère 3 niveaux d'urgence et lance des appels téléphoniques, mails et envoie des SMS si nécessaire.
+# bodyguard-privacy-policy
+Conditions générales d'utilisation 
+PRÉAMBULE 
+Le service «Aidevig Bodyguard» (ci-après le « Service ») permet à tout Utilisateur d’un Terminal sous système d’exploitation Android d’émettre en cas de danger une alerte automatisée vers une personne tierce et/ou organisme de secours. Le Service gère 3 niveaux d'urgence et lance des appels téléphoniques, mails et envoie des SMS si nécessaire.
 
 Ce Service est fourni par la société Orange, Société Anonyme au capital de 10.640.226.396 Euros, immatriculée au Registre du Commerce et des Société de Paris sous le numéro RCS PARIS B 380 129 866 dont le siège social est situé 78, rue Olivier de Serres, 75015 Paris, domiciliée aux fins des présentes à Orange Labs Produits & Services, 40-48, Avenue de la République, 92320, Châtillon (ci-après « Orange Labs »).
 
